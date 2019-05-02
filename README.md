@@ -1,2 +1,2 @@
 # Spam-Detector-
-using machine learning with Naive Bayes theorem.
+Using deep neural network with Naive Bayes theorem to predict the the span message 
